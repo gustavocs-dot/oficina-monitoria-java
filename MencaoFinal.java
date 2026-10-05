@@ -11,11 +11,11 @@ public class MencaoFinal {
 
     if (N1 <= 2.9){
         System.out.println("Sua menção é II");}
-    else if (N1 >= 3 && N1 <= 4.9){
+    else if (N1 <= 4.9){
         System.out.println("Sua menção é: MI");}
-    else if (N1 >= 5 && N1 <= 6.9){
+    else if (N1 <= 6.9){
         System.out.println("Sua menção é: MM");}
-    else if (N1 >= 7 && N1 <= 8.9){
+    else if (N1 <= 8.9){
         System.out.println("Sua menção é: MS");}
     else {
         System.out.println("Sua menção é: SS");}
