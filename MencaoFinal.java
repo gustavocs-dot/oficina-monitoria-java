@@ -17,8 +17,10 @@ public class MencaoFinal {
         System.out.println("Sua menção é: MM");}
     else if (N1 <= 8.9){
         System.out.println("Sua menção é: MS");}
-    else {
+    else if (N1 <= 10 ){
         System.out.println("Sua menção é: SS");}
-
+    else {
+        System.out.println("Nota não reconhecida");
+    }
     }
 }
