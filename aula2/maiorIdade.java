@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MaiorIdade {
+public class maiorIdade {
     public static void main(String[] args) {
         int id1;
         

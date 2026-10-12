@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Aleatorio {
+public class aleatorio {
     public static void main(String[] args) {
         
         Random random = new Random();

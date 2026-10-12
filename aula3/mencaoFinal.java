@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MencaoFinal {
+public class mencaoFinal {
     public static void main(String[] args) {
         double N1;
         
